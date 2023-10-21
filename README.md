@@ -16,8 +16,8 @@ CubeLaunch es un lanzador de Minecraft no-premium para cualquier persona, totalm
 
 ## Cómo Instalar:
 
-1. [Descarga CubeLaunch](https://cubelaunch.example.com) 📥
-2. Ejecuta el instalador y sigue las instrucciones en pantalla. 🖱️
+1. [Descarga CubeLaunch](https://cubelaunch.xyz) 📥
+3. Ejecuta el instalador y sigue las instrucciones en pantalla. 🖱️
 
 ## Licencia:
 
